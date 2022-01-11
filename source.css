@@ -6,7 +6,7 @@
   --app-radius: 8px;
   --app-accent: #9843c9;
   --app-accent-image: none;
-  --app-accent-rgb: 215,61,61;
+  --app-accent-rgb: 219,72,214;
   --app-accent-text: #fff;
   --sidebar-color: rgba(0,0,0,0.4);
   --main-content-color: rgba(0,0,0,0.2);
@@ -33,7 +33,7 @@
   --button-text-color: var(--app-accent-text);
   --button-radius: var(--app-radius);
   --button-alt-color: var(--card-color);
-  --alert-color: #f04747;
+  --alert-color: #DB48D6;
   --alert-action-color: #fff;
   --alert-text-color: #fff;
   --popout-color: rgba(0,0,0,0.55);
